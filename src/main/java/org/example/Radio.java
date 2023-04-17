@@ -1,3 +1,4 @@
+package org.example;
 public class Radio {
     private int currentStation;
     private int currentVolume;

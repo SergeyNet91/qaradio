@@ -38,7 +38,7 @@ public class Radio {
     }
 
     public void setCurrentStation(int currentStation) {
-        if (currentStation < 0) {
+        if (currentStation < 0) { // меньше
             return;
         }
         if (currentStation > 9) {

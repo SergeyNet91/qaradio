@@ -2,7 +2,7 @@ import org.example.Radio;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
-public class RadioTest {
+public class RadioTest { //comment
     @Test
     public void shoudSetRadioStation() {
         Radio radio = new Radio();
